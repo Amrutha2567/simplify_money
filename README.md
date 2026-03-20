@@ -11,3 +11,11 @@
 ```bash
 npm install
 npx expo start
+
+Tech Stack
+
+React Native (Expo)
+
+React Navigation
+
+JavaScript (ES6)
