@@ -20,4 +20,10 @@ JavaScript (ES6)
 npm install
 npx expo start
 
+npx create-expo-app metal-prices-app
+cd metal-prices-app
 
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm install axios
