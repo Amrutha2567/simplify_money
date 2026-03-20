@@ -7,11 +7,6 @@
 - Error handling
 - Navigation to details screen
 
-## Setup
-```bash
-npm install
-npx expo start
-
 ##Tech Stack
 
 React Native (Expo)
@@ -19,3 +14,11 @@ React Native (Expo)
 React Navigation
 
 JavaScript (ES6)
+
+
+## Setup
+```bash
+npm install
+npx expo start
+
+
