@@ -1,4 +1,3 @@
-# simplify_money
 # Metal Prices App
 
 ## Features
