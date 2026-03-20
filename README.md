@@ -12,7 +12,7 @@
 npm install
 npx expo start
 
-Tech Stack
+##Tech Stack
 
 React Native (Expo)
 
