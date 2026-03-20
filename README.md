@@ -7,7 +7,7 @@
 - Error handling
 - Navigation to details screen
 
-##Tech Stack
+## Tech Stack
 
 React Native (Expo)
 
