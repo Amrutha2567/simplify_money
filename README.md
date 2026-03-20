@@ -14,6 +14,22 @@ React Navigation
 
 JavaScript (ES6)
 
+---
+
+# 💡 Bonus (If you want to impress recruiter)
+Add:
+- Pull to refresh
+- Charts (price trend)
+- Dark mode
+- Real API (goldapi.io)
+
+---
+
+If you want, I can:
+✅ Convert this to **TypeScript**  
+✅ Add **real API integration**  
+✅ Make it look like a **premium fintech app UI (🔥 high chance of selection)**
+
 
 ## Setup
 ```bash
